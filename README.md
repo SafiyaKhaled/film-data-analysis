@@ -3,7 +3,7 @@
 This project analyzes a dataset of 10,000 films using Python and libraries like pandas, matplotlib, seaborn, and plotly.  
 The goal is to extract insights related to film genres, audience engagement, and production patterns.
 
-### 📁 Dataset Overview
+###  Dataset Overview
 
 The dataset includes:
 - Film titles
@@ -15,7 +15,7 @@ The dataset includes:
 - Rating breakdown: number of 1-star, 3-star, 5-star votes
 - Total number of ratings
 
-### 🎯 KPIs Analyzed
+###  KPIs Analyzed
 
 - Most common film genres
 - Most watched genres
@@ -24,7 +24,7 @@ The dataset includes:
 - Viewer engagement per genre
 - Studio popularity analysis
 
-### 🧪 Tools & Technologies
+###  Tools & Technologies
 
 - Python 3.x
 - pandas for data manipulation
